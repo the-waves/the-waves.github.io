@@ -4,6 +4,13 @@
     min-height:189px;
 }
 
+div t{
+    width: 300px;
+    padding: 25px;
+    border: 25px solid navy;
+    margin: 25px;
+}
+
 body {
     margin: 60px auto;
     width: 70%;
